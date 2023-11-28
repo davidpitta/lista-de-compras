@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
-## Link do Projeto
+## Deploy do Projeto
 
 https://lista-de-compras-murex-alpha.vercel.app
 
